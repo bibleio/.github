@@ -9,3 +9,4 @@ Current to do list:
   - Port the web app into tauri v2
 - Accounts to store data
 - Discord bot
+[View full to do list on notion](https://dukc.notion.site/Biblio-781f29eb2433420d8dbd98feaa584237)
