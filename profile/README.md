@@ -5,14 +5,15 @@ Innovating the industry of Bible technology.
 We focus on making free & open-source public domain Bible technology that is privacy, design, and performance focused.
 
 We have big plans:
-- Bible API written in Rust
+- Bible API written in Rust with major translations
 - Rewrite of the Web App
 - Mobile study app
-- Enhanced desktop study app
+- Enhanced desktop study app with original language viewing
 - Bible CLI, Discord Bot
 - Why Believe? page and helpful articles
-- Social media?
-- Christian videos
+- Community for churches to post sermons & updates
+- Community for you and friends
+- Christian videos on YT
 and so much more.
 
 Matthew 10:8 "Freely you have received; freely give."
