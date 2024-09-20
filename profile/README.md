@@ -28,4 +28,4 @@ Matthew 10:8 "Freely you have received; freely give."
   [<img src="https://copy.church/badges/lcc_alt_pde.png" alt="Freely given, no conditions!" width="300"/>](https://copy.church/explain/importance/)
 </details>
 
-[Discord](https://discord.gg/7eVCyQ5GGb) - [Notion To Do List](https://dukc.notion.site/Biblio-781f29eb2433420d8dbd98feaa584237) - [copy.church](https://copy.church)
+[Discord](https://discord.gg/7eVCyQ5GGb) - [Notion To Do List](https://cat-skate-e91.notion.site/Tasks-102aafe2ea3c8158b203e996e06c9aa7) - [copy.church](https://copy.church)
