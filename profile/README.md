@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/b7e275a7-ee86-41a5-8e9b-6d5e72de641c)
+![banner](https://github.com/user-attachments/assets/39e9a026-4b25-491b-a45d-8556ea88a07f)
 
 Innovating the industry of Bible technology.
 
