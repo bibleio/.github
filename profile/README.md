@@ -4,6 +4,15 @@ Innovating the industry of Bible technology.
 
 We focus on making free & open-source public domain Bible technology that is privacy, design, and performance focused.
 
+### Our projects
+- App, a suite of modern Bible study apps `Astro` `Tauri` `Preact` 
+- BibleJSON, a new formatting standard for scripture, fully encoded in JSON `Rust`
+- API, our (soon to be multipurpose) Bible API `Rust`
+- Design, our beautiful design system `React`
+- Website & docs, our public facing websites and documentation `Astro`
+
+#### All of these projects can be found in our [monorepo](https://github.com/bibleio/bibleio).
+
 Matthew 10:8 "Freely you have received; freely give."
 
 <details>
