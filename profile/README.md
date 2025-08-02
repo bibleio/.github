@@ -2,4 +2,4 @@ We have merged with the KOR HQ organization, for easier organizational, design, 
 
 New monorepo link: https://github.com/kor-hq/bibleio
 
-<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/1242ae5a-c96d-4c01-8c24-5fabb43ace81" />
+<img width="1024" height="256" alt="image" src="https://github.com/user-attachments/assets/93f9457f-3ad2-48a5-bb46-6933573c92eb" />
